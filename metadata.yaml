@@ -1,0 +1,35 @@
+_repo: Science-in-the-Kitchen--13-A-Scientific-Treatise-On-Food-Substances-and-Their-Dietetic-Proper__12238
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 12238/12238-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Kellogg, E. E. (Ella Ervilla)
+    aliases:
+    - Kellogg, Ella Ervilla
+    - Kellogg, Ella Ervilla Eaton
+    gutenberg_agent_id: '4271'
+    url: http://www.gutenberg.org/2009/agents/4271
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diet'
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- !lcsh 'Vegetarianism'
+- GITenberg
+title: "Science in the Kitchen\r\nA Scientific Treatise On Food Substances and Their\
+  \ Dietetic Properties, Together with a Practical Explanation of the Principles of\
+  \ Healthful Cookery, and a Large Number of Original, Palatable, and Wholesome Recipes"
+url: http://www.gutenberg.org/ebooks/12238
